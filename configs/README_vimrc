@@ -1,0 +1,4 @@
+This vimrc uses Vundle to install in plugins:
+https://github.com/gmarik/Vundle.vim
+
+Copy over the vimrc and then install the plugins
